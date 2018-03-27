@@ -1,0 +1,1 @@
+NewCustomer = ContractTicketHolder("A, Smith", "xyz@abc.xx", 10)
